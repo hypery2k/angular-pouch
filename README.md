@@ -1,5 +1,7 @@
 # AngularJS PouchDB Support
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hypery2k/angular-pouch.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/hypery2k/angular-pouch.svg?branch=master)](https://travis-ci.org/hypery2k/angular-pouch)
 
 A simple wrapper for PouchDB, to make integration into AngularJS applications a breeze. So what does it do?
